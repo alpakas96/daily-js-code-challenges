@@ -35,7 +35,13 @@ addOne(-5) //=> -4
 // Your solution for 01-addOne here:
 
 
+//DOESN'T WORK :(
+let number = 1;
+function addOne(number) {
+  return newNumber = number + 1;
+}
 
+console.log(newNumber);
 
 
 /*-----------------------------------------------------------------
